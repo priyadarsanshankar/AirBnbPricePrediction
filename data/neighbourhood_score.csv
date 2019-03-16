@@ -1,0 +1,686 @@
+city,Neighbourhood,walk_score,transit_score,bike_score,population
+NYC,Little Italy,100,100,95,3749
+NYC,NoHo,100,100,94,3123
+NYC,NoLita,100,100,94,6464
+NYC,Bowery,100,100,96,16702
+NYC,Union Square,100,100,91,7810
+NYC,Flatiron District,100,100,90,4579
+NYC,Chinatown,100,100,95,13724
+NYC,NoMad,100,100,87,8137
+NYC,Greenwich Village,100,100,94,34531
+NYC,SoHo,100,100,93,11276
+NYC,Gramercy Park,100,100,94,18635
+NYC,Financial District,100,100,85,27033
+NYC,West Village,100,100,93,34359
+NYC,Koreatown,100,100,85,1910
+NYC,Tribeca,99,100,88,17068
+NYC,Theater District,99,100,84,13170
+NYC,Midtown East,99,100,75,49976
+NYC,Chelsea,99,100,93,52598
+NYC,Murray Hill,99,100,80,22249
+NYC,Garment District,99,100,85,5963
+NYC,Kips Bay,99,100,87,39246
+NYC,Upper East Side,99,99,77,208013
+NYC,Civic Center,99,100,92,5279
+NYC,Boerum Hill,98,100,95,22518
+NYC,Two Bridges,98,99,93,28930
+NYC,Hell's Kitchen,98,100,90,51840
+NYC,Brooklyn Heights,98,100,88,20560
+NYC,DUMBO,98,100,84,3006
+NYC,Upper West Side,98,99,80,208776
+NYC,East Village,98,96,95,60375
+NYC,Prospect Heights,97,100,92,21765
+NYC,Fordham Heights,97,99,60,49896
+NYC,Fort Greene,97,100,91,20297
+NYC,Cobble Hill,97,99,94,8605
+NYC,Downtown Brooklyn,97,100,89,11077
+NYC,Battery Park City,97,100,83,12258
+NYC,Park Slope,97,97,89,61508
+NYC,Carroll Gardens,97,89,95,18514
+NYC,Central Harlem,97,100,76,111094
+NYC,Gowanus,97,97,90,5661
+NYC,Washington Heights,97,97,71,158951
+NYC,Concourse,96,93,68,54406
+NYC,West Harlem,96,99,74,107403
+NYC,Williamsburg,96,93,82,138526
+NYC,Clinton Hill,96,99,93,25887
+NYC,East Tremont,96,94,66,16991
+NYC,Inwood,96,88,71,38367
+NYC,Greenpoint,96,71,87,34569
+NYC,East Harlem,96,99,79,118829
+NYC,Woodstock,96,95,70,19048
+NYC,Mount Hope,96,94,63,30381
+NYC,Fordham Manor,96,100,57,49585
+NYC,Brighton Beach,96,78,63,30166
+NYC,Lower East Side,96,93,94,38641
+NYC,Belmont,96,92,61,23890
+NYC,Mount Eden,96,93,61,24005
+NYC,Concourse Village,96,98,68,29727
+NYC,Longwood,96,93,72,20337
+NYC,Crown Heights,95,100,82,125818
+NYC,Borough Park,95,79,64,115327
+NYC,Foxhurst,95,96,75,19644
+NYC,Elmhurst,95,97,64,101918
+NYC,Sunset Park,95,85,73,100989
+NYC,South Bronx,95,95,73,74207
+NYC,Ridgewood,95,90,70,64765
+NYC,Bushwick,95,95,82,113629
+NYC,Long Island City,95,87,78,71414
+NYC,Kensington,95,86,84,49617
+NYC,Woodside,94,95,68,55051
+NYC,Parkchester,94,86,54,40412
+NYC,Flatbush,94,95,75,167618
+NYC,Stuyvesant Town - Peter Cooper Village,94,99,93,21268
+NYC,Bedford-Stuyvesant,94,96,78,153040
+NYC,Vinegar Hill,94,99,87,4630
+NYC,Westchester Village,94,81,65,15332
+NYC,Morrisania,94,92,70,51768
+NYC,University Heights,93,98,57,35552
+NYC,Bedford Park,93,98,69,26304
+NYC,Jackson Heights,93,86,72,108979
+NYC,Highbridge,93,94,62,38495
+NYC,Corona,93,79,67,109607
+NYC,West Farms,93,90,66,29710
+NYC,Bensonhurst,93,77,57,77932
+NYC,Astoria,92,78,74,153924
+NYC,Norwood,92,95,68,39735
+NYC,Sheepshead Bay,92,79,66,121807
+NYC,Jamaica Hills,92,100,50,12700
+NYC,Kingsbridge,92,93,61,50354
+NYC,Brownsville,92,99,76,55788
+NYC,Rego Park,92,91,64,60946
+NYC,Marble Hill,92,87,57,10180
+NYC,Mapleton,91,80,62,26579
+NYC,Crotona Park East,91,94,73,29987
+NYC,Hunts Point,91,82,68,12200
+NYC,East Flatbush,91,90,62,130788
+NYC,Bay Ridge,91,84,73,79177
+NYC,Unionport,91,80,61,23914
+NYC,Morris Heights,91,94,59,40713
+NYC,Greenwood Heights,91,90,69,18878
+NYC,Red Hook,91,68,99,10225
+NYC,Van Nest,91,85,61,13918
+NYC,Forest Hills,91,91,58,51010
+NYC,Midwood,91,87,68,73615
+NYC,Gravesend,91,83,66,100536
+NYC,Kew Gardens,91,94,57,26367
+NYC,Cypress Hills,91,78,62,42692
+NYC,Windsor Terrace,90,86,84,14446
+NYC,Pelham Parkway,90,82,74,22492
+NYC,Dyker Heights,90,77,60,37264
+NYC,Ocean Hill,90,100,64,27565
+NYC,Richmond Hill,90,81,52,65905
+NYC,Flatlands,90,88,60,65242
+NYC,Allerton,90,81,72,59555
+NYC,Flushing,89,83,54,172447
+NYC,Woodhaven,88,72,52,36877
+NYC,Jamaica,88,94,53,89810
+NYC,Utopia,88,70,58,1494
+NYC,Ozone Park,88,77,51,39572
+NYC,Morris Park,88,77,64,16410
+NYC,Bath Beach,88,74,61,33061
+NYC,Pelham Bay,87,80,70,24885
+NYC,Wakefield,87,77,61,54956
+NYC,Williamsbridge,87,80,70,31788
+NYC,East Elmhurst,87,74,79,22443
+NYC,Briarwood,86,95,57,27884
+NYC,Clason Point,86,78,62,92935
+NYC,East New York,86,90,66,142173
+NYC,Kew Gardens Hills,84,73,71,35329
+NYC,Marine Park,84,86,64,21034
+NYC,Baychester,84,76,51,14525
+NYC,Port Morris,84,72,75,992
+NYC,St. George,84,74,47,7741
+NYC,Glendale,84,70,66,31104
+NYC,Maspeth,84,75,58,56058
+NYC,Canarsie,84,78,57,82503
+NYC,Floral Park,84,60,58,12130
+NYC,Port Richmond,83,65,53,15465
+NYC,South Ozone Park,83,69,51,68783
+NYC,Jamaica Estates,83,91,45,14139
+NYC,Grant City,82,68,62,4974
+NYC,Bronx Park,82,87,74,1581
+NYC,Coney Island,82,77,66,44763
+NYC,Stapleton,81,66,54,11469
+NYC,Hollis,81,76,50,38274
+NYC,Edenwald,81,68,59,21096
+NYC,Auburndale,81,67,54,31417
+NYC,Hillcrest,81,75,62,17394
+NYC,Pelham Gardens,80,76,62,14859
+NYC,Middle Village,80,70,60,29125
+NYC,Riverdale,80,72,44,43830
+NYC,Woodlawn Heights,79,73,47,7406
+NYC,West Brighton,79,62,53,23986
+NYC,Pomonok,79,72,71,16458
+NYC,Manhattan Beach,78,70,58,6532
+NYC,College Point,78,58,47,26415
+NYC,Queens Village,78,73,53,56540
+NYC,Forest Park,78,75,44,4374
+NYC,Springfield Gardens,78,66,53,8826
+NYC,Westerleigh,78,59,47,22157
+NYC,Tompkinsville,78,70,35,8383
+NYC,South Jamaica,77,64,53,30821
+NYC,Randall Manor,77,58,42,2036
+NYC,New Dorp,77,65,53,9709
+NYC,Eastchester,77,73,51,6715
+NYC,Roosevelt Island,77,90,78,11608
+NYC,Fresh Meadows,76,68,62,16304
+NYC,Rosebank,76,64,54,11111
+NYC,Rochdale,76,72,50,24666
+NYC,St. Albans,76,71,51,42290
+NYC,Bellerose,76,65,58,22089
+NYC,Bergen Beach,75,78,57,13098
+NYC,Van Cortlandt Park,75,77,53,524
+NYC,Dongan Hills,75,65,47,13852
+NYC,Little Neck,75,58,44,10216
+NYC,Laurelton,75,63,54,23893
+NYC,Far Rockaway,74,61,62,76523
+NYC,Mill Basin,74,76,57,11885
+NYC,Arrochar,74,69,58,550
+NYC,Clearview,74,52,54,8031
+NYC,Castle Hill,73,66,73,14730
+NYC,Blissville,73,71,57,613
+NYC,Bayside,73,63,55,71348
+NYC,Midland Beach,73,61,63,8667
+NYC,Cambria Heights,73,61,52,16159
+NYC,South Beach,72,64,64,13647
+NYC,Castleton Corners,71,59,45,3403
+NYC,Elm Park,71,60,48,4594
+NYC,Rosedale,71,60,54,26160
+NYC,Holliswood,71,76,41,8048
+NYC,Clifton,71,65,51,9661
+NYC,Whitestone,70,56,47,30448
+NYC,Howard Beach,69,66,60,26240
+NYC,New Brighton,69,65,39,10494
+NYC,Manor Heights,69,53,38,7495
+NYC,Sunnyside,69,61,45,4822
+NYC,Throgs Neck,69,53,47,33641
+NYC,Co-Op City,69,77,64,35450
+NYC,Glen Oaks,68,58,52,12540
+NYC,Rockaway Beach,68,59,67,35942
+NYC,Graniteville,68,60,49,11295
+NYC,City Island,68,37,48,4307
+NYC,Grasmere,67,70,42,5993
+NYC,Eltingville,66,61,44,22910
+NYC,Brookville,66,65,60,9830
+NYC,New Dorp Beach,66,62,54,6298
+NYC,Great Kills,66,56,46,27953
+NYC,Bulls Head,65,58,61,13820
+NYC,Richmond Town,65,49,47,2489
+NYC,Concord,63,67,41,7293
+NYC,Douglaston,63,55,38,14120
+NYC,Country Club,62,63,46,4522
+NYC,Mariners Harbor,62,55,47,15325
+NYC,Silver Lake,61,60,34,2805
+NYC,Emerson Hill,61,58,31,5387
+NYC,Gerritsen Beach,60,62,59,7199
+NYC,Alley Park,59,57,53,547
+NYC,Tottenville,59,54,45,14635
+NYC,Pleasant Plains,58,51,44,3603
+NYC,Fort Wadsworth,58,64,66,2376
+NYC,Travis - Chelsea,58,44,44,2948
+NYC,Willowbrook,57,51,40,9688
+NYC,Grymes Hill,57,63,29,5252
+NYC,Ocean Breeze,56,58,53,2626
+NYC,Spencer Estates,56,69,45,3578
+NYC,Rossville,55,45,40,9847
+NYC,New Springville,55,57,56,20741
+NYC,Oakwood,55,61,49,11991
+NYC,Prince's Bay,52,52,55,6342
+NYC,Sea Gate,50,50,47,4638
+NYC,Broad Channel,48,65,54,2412
+NYC,Todt Hill,48,53,26,2003
+NYC,Bay Terrace,48,61,47,4457
+NYC,Annadale,48,52,40,10021
+NYC,Fort Hamilton,47,67,64,763
+NYC,Huguenot,45,50,39,8671
+NYC,Woodrow,44,48,46,10780
+NYC,Lighthouse Hill,42,46,32,1766
+NYC,Greenridge,42,58,34,9021
+NYC,Arden Heights,40,45,33,10460
+NYC,Bloomfield,38,55,48,513
+NYC,Charleston,36,44,33,2002
+NYC,Randalls-Wards Island,26,66,62,1625
+NYC,Rikers Island,3,36,25,10681
+SF,Chinatown,100,100,67,8646
+SF,Downtown-Union Square,99,100,84,2112
+SF,Lower Nob Hill,99,100,77,14408
+SF,North Beach,99,96,73,10684
+SF,Tenderloin,99,100,93,21848
+SF,Civic Center,98,100,98,3237
+SF,Castro,98,96,70,2219
+SF,Japantown,98,90,84,3118
+SF,Nob Hill,98,100,64,15778
+SF,Polk Gulch,98,96,81,5096
+SF,Union Street,98,86,71,5279
+SF,Mint Hill,98,100,86,1693
+SF,Mission Dolores,98,99,90,11935
+SF,Duboce Triangle,98,99,87,4733
+SF,Lower Pacific Heights,97,81,83,6145
+SF,Hayes Valley,97,99,82,4663
+SF,Mission District,97,87,96,39206
+SF,Cathedral Hill,97,98,86,6245
+SF,Lower Haight,96,98,86,7355
+SF,Northern Waterfront,96,99,83,2406
+SF,Russian Hill,96,94,67,14083
+SF,Telegraph Hill,96,96,63,3080
+SF,Haight Ashbury,96,81,80,4804
+SF,Cole Valley,96,77,76,2366
+SF,Alamo Square,96,90,84,3067
+SF,Fishermans Wharf,96,88,72,1425
+SF,South of Market,96,100,97,25457
+SF,Western Addition,96,89,89,15059
+SF,Pacific Heights,96,89,70,19973
+SF,Financial District,95,100,86,810
+SF,Dolores Heights,95,87,76,9675
+SF,Panhandle,94,82,91,6506
+SF,Anza Vista,94,81,78,1993
+SF,Inner Sunset,94,72,70,12832
+SF,Laurel Heights-Jordan Park,93,78,81,3778
+SF,Cow Hollow,93,77,65,3258
+SF,Inner Richmond,92,78,88,24154
+SF,Marina District,92,76,87,12435
+SF,Buena Vista,92,89,70,5964
+SF,Corona Heights,92,93,68,2011
+SF,Aquatic Park-Fort Mason,91,89,76,849
+SF,West Portal,91,80,65,3756
+SF,Dogpatch,91,74,92,1282
+SF,Noe Valley,91,74,75,13193
+SF,Lone Mountain,90,79,78,7046
+SF,Presidio Heights,90,76,78,4219
+SF,South Beach,89,100,89,5044
+SF,Eureka Valley,89,86,67,6782
+SF,Showplace Square,89,92,96,1054
+SF,Mission Bay,89,88,98,6576
+SF,Presidio Terrace,89,73,91,2386
+SF,Lake Street,88,73,91,3780
+SF,Rincon Hill,88,100,68,4112
+SF,Bernal Heights,88,77,69,15114
+SF,Outer Richmond,88,73,72,28410
+SF,Potrero Hill,87,74,71,12669
+SF,Ashbury Heights,87,78,62,3072
+SF,Peralta Heights,86,77,73,2141
+SF,St. Francis Wood,86,78,58,1317
+SF,Cayuga,85,90,57,6761
+SF,Outer Mission,84,76,49,7918
+SF,Holly Park,84,78,72,4222
+SF,Stonestown,84,70,62,1949
+SF,Silver Terrace,83,71,70,10210
+SF,Parnassus Heights,83,69,59,2955
+SF,Westwood Park,82,78,68,2103
+SF,Bayview,82,68,66,12897
+SF,Mt. Davidson Manor,81,74,59,1607
+SF,Mission Terrace,80,85,66,10529
+SF,Fairmount,80,80,71,3963
+SF,St. Marys Park,79,81,66,3010
+SF,Excelsior,79,78,52,19839
+SF,Bret Harte,79,66,42,5398
+SF,Parkside,79,66,60,18299
+SF,Ingleside,78,80,47,10250
+SF,Sunnyside,78,80,64,6805
+SF,Outer Sunset,78,62,71,53301
+SF,Glen Park,78,81,66,3218
+SF,Seacliff,77,64,88,1768
+SF,Sutro Heights,77,67,69,3134
+SF,Portola,76,69,54,14411
+SF,Balboa Terrace,76,72,58,990
+SF,Ingleside Terraces,76,72,62,1999
+SF,Merced Manor,75,66,65,2731
+SF,Parkmerced,75,64,60,10161
+SF,Golden Gate Heights,74,73,50,10995
+SF,Merced Heights,72,76,45,5997
+SF,Crocker Amazon,71,69,31,13710
+SF,Westwood Highlands,71,69,51,640
+SF,Oceanview,70,82,46,9031
+SF,Diamond Heights,69,67,59,3020
+SF,Visitacion Valley,68,67,47,13360
+SF,Laguna Honda,67,79,55,3307
+SF,Upper Market,66,65,63,4283
+SF,Monterey Heights,65,71,43,1000
+SF,Little Hollywood,65,68,48,1705
+SF,Forest Hill,60,80,53,2069
+SF,Miraloma Park,60,68,49,4558
+SF,Clarendon Heights,58,75,53,1914
+SF,Sunnydale,57,61,39,4107
+SF,Hunters Point,56,57,38,3731
+SF,Forest Knolls,52,69,41,1798
+SF,University Mound,51,66,39,4694
+SF,Sherwood Forest,51,71,36,1663
+SF,Candlestick Point State Recreation Area,51,64,30,1230
+SF,Midtown Terrace,48,74,50,1699
+SF,Presidio National Park,42,60,65,3276
+SF,Lakeshore,39,50,54,3541
+SF,McLaren Park,38,64,31,603
+SF,Treasure Island,36,35,51,2506
+Boston,Chinatown - Leather District,98,100,65,4431
+Boston,North End,98,100,77,11195
+Boston,Bay Village,98,100,71,1307
+Boston,Beacon Hill,98,100,68,9978
+Boston,Downtown,97,100,70,9358
+Boston,Back Bay,96,97,86,18194
+Boston,South End,96,94,90,24651
+Boston,West End,95,100,80,4062
+Boston,Fenway - Kenmore - Audubon Circle - Longwood,94,95,89,36713
+Boston,Central Maverick Square - Paris Street,92,67,73,11164
+Boston,Central Square,92,62,56,704
+Boston,Lower Roxbury,90,93,91,13752
+Boston,Hyde Square,89,76,91,8114
+Boston,Uphams Corner - Jones Hill,88,65,60,11385
+Boston,Telegraph Hill,88,56,68,8392
+Boston,Mission Hill,88,91,81,17692
+Boston,Meeting House Hill,87,69,58,7489
+Boston,Jeffries Point,87,68,69,8312
+Boston,D Street - West Broadway,87,70,65,10407
+Boston,Fields Corner West,86,73,57,5398
+Boston,Eagle Hill,86,64,58,9558
+Boston,Fields Corner East,86,66,65,2888
+Boston,St. Marks,85,76,61,9654
+Boston,Allston,84,66,91,19014
+Boston,Sav-Mor,84,78,68,6088
+Boston,Thompson Square - Bunker Hill,83,71,72,13293
+Boston,Bowdoin North - Mount Bowdoin,83,70,50,5193
+Boston,Egleston Square,83,72,84,6800
+Boston,Dudley - Brunswick King,83,72,60,15435
+Boston,Mattapan Square,82,69,71,1007
+Boston,Codman Square - East Codman Hill,82,75,52,9774
+Boston,Ashmont,81,80,50,6915
+Boston,Columbus Park - Andrew Square,80,70,70,7457
+Boston,Jamaica Central - South Sumner,80,75,88,10304
+Boston,Stony Brook - Cleary Square,80,59,55,5895
+Boston,Neponset - Port Norfolk,79,59,66,7073
+Boston,Commonwealth,79,71,71,22199
+Boston,Washington Park,79,75,71,17431
+Boston,St. Elizabeth's,79,72,72,15539
+Boston,Oak Square,79,57,64,16728
+Boston,City Point,78,53,73,7430
+Boston,Wellington Hill,78,61,52,7853
+Boston,Medford Street - The Neck,77,67,67,3078
+Boston,Franklin Field North,75,73,65,7044
+Boston,Lower Washington - Mount Hope,75,64,61,9124
+Boston,Columbia Point,75,66,70,16963
+Boston,Lower East Mills - Cedar Grove,75,70,60,5242
+Boston,Highland Park,75,87,70,3945
+Boston,Centre-South,74,59,68,4462
+Boston,West Codman Hill - West Lower Mills,73,67,54,5389
+Boston,Metropolitan Hill - Beach Street,72,57,55,13945
+Boston,Franklin Field South,70,64,63,10221
+Boston,Bellevue Hill,68,48,49,2707
+Boston,Harbor View - Orient Heights,68,59,58,11113
+Boston,Jamaica Hills - Pond,65,64,80,7611
+Boston,Southern Mattapan,64,65,57,10243
+Boston,West Street - River Street,58,57,51,14063
+Boston,Forest Hills - Woodbourne,57,72,59,4593
+Boston,Readville,54,49,56,3767
+Boston,Fairmount Hills,54,49,48,5336
+Boston,Brook Farm,53,43,48,12731
+Boston,Upper Washington - Spring Street,52,42,40,14323
+Boston,Georgetown,39,47,43,2626
+Boston,Long Island,0,0,6,532
+Chicago,Near North Side,96,90,87,85347
+Chicago,West Loop,96,100,85,6097
+Chicago,East Ukrainian Village,96,75,98,7233
+Chicago,Ukrainian Village,94,70,97,6002
+Chicago,Wicker Park,94,75,95,8833
+Chicago,Lincoln Park,94,79,90,26167
+Chicago,The Loop,93,99,80,14709
+Chicago,Grant Park,93,100,79,1158
+Chicago,Fulton River District,93,96,84,4427
+Chicago,Noble Square,93,75,98,8494
+Chicago,DePaul,92,77,88,30656
+Chicago,South Loop,92,93,88,35008
+Chicago,Bucktown,91,73,90,17318
+Chicago,Lakeview,91,79,88,94521
+Chicago,West Town,91,75,94,21561
+Chicago,Uptown,91,79,91,48579
+Chicago,Ravenswood,90,69,88,35239
+Chicago,Edgewater,89,72,80,56505
+Chicago,North Center,88,66,87,17134
+Chicago,Armour Square,88,75,83,12718
+Chicago,Pilsen,88,66,85,35903
+Chicago,Logan Square,88,68,90,92596
+Chicago,Roscoe Village,88,66,86,14401
+Chicago,Albany Park,87,62,76,57227
+Chicago,Near West Side,86,82,89,17235
+Chicago,Hyde Park,86,66,92,18584
+Chicago,Rogers Park,86,74,81,55247
+Chicago,Goose Island,86,80,89,3790
+Chicago,University Village - Little Italy,85,72,92,17447
+Chicago,Irving Park,85,66,74,14184
+Chicago,River West,84,80,89,1298
+Chicago,Humboldt Park,84,67,82,39790
+Chicago,Avondale,84,68,78,17980
+Chicago,East Hyde Park,83,66,96,11204
+Chicago,South Old Irving Park,83,70,67,1346
+Chicago,Tri-Taylor,82,72,92,3341
+Chicago,Cragin,82,59,65,42978
+Chicago,Lincoln Square,82,60,73,14134
+Chicago,Mayfair,82,65,74,7468
+Chicago,Little Village,82,62,68,80787
+Chicago,Chatham,82,67,59,25742
+Chicago,West Ridge,81,56,75,71939
+Chicago,Illinois Medical District,81,73,90,833
+Chicago,Bridgeport,81,61,81,32884
+Chicago,Kilbourn Park,80,63,67,7047
+Chicago,Hermosa,79,60,67,20888
+Chicago,Old Irving Park,79,70,66,11558
+Chicago,Kenwood,79,66,85,6207
+Chicago,Belmont Central,78,59,65,31071
+Chicago,North Mayfair,78,59,70,6882
+Chicago,Belmont Gardens,78,60,66,17392
+Chicago,East Garfield Park,78,73,82,23705
+Chicago,Chicago Lawn,78,58,66,18914
+Chicago,Marynook,78,59,55,2461
+Chicago,West Garfield Park,78,70,67,14189
+Chicago,Stony Island Park,77,59,69,3601
+Chicago,Avalon Park,77,63,61,3567
+Chicago,West Humboldt Park,77,63,60,13598
+Chicago,Back of the Yards,76,61,63,47169
+Chicago,Austin,76,65,62,80920
+Chicago,Grand Crossing,76,66,61,11044
+Chicago,The Villa,75,72,60,598
+Chicago,McKinley Park,75,64,60,14484
+Chicago,South Shore,75,68,62,46254
+Chicago,West Woodlawn,75,72,76,8107
+Chicago,Montclare,74,58,68,16143
+Chicago,Bronzeville,74,67,73,54188
+Chicago,Archer Heights,74,57,58,15593
+Chicago,Portage Park,74,59,62,43601
+Chicago,North Park,73,54,72,17672
+Chicago,Gage Park,73,60,64,39517
+Chicago,Lawndale,72,66,65,50720
+Chicago,Brighton Park,72,60,62,46284
+Chicago,Gresham,72,62,62,52409
+Chicago,Jefferson Park,72,64,72,44147
+Chicago,Park Manor,71,73,70,16563
+Chicago,Brainerd,71,64,58,12894
+Chicago,West Chatham,71,71,60,3818
+Chicago,Schorsch Village,71,55,64,7287
+Chicago,West Elsdon,70,62,67,18156
+Chicago,West Lawn,70,57,55,35434
+Chicago,South Chicago,70,63,65,30820
+Chicago,Englewood,70,65,63,49557
+Chicago,Galewood,69,57,62,14803
+Chicago,Woodlawn,69,73,71,14253
+Chicago,Belmont Heights,69,54,57,12912
+Chicago,Roseland,69,62,66,28719
+Chicago,Marquette Park,69,57,59,32328
+Chicago,West Englewood,68,63,65,25522
+Chicago,Washington Park,68,73,66,11328
+Chicago,Beverly Woods,68,45,56,1136
+Chicago,Dunning,68,53,61,6881
+Chicago,West Morgan Park,67,40,56,2545
+Chicago,Edison Park,66,46,62,10972
+Chicago,Washington Heights,66,58,56,5226
+Chicago,Morgan Park,66,50,64,16994
+Chicago,Beverly,64,50,65,20245
+Chicago,Scottsdale,64,56,56,14173
+Chicago,Calumet Heights,63,58,60,13790
+Chicago,Burnside,63,66,54,9931
+Chicago,Longwood Manor,62,67,55,6407
+Chicago,Norwood Park,62,51,65,35948
+Chicago,Fernwood,61,57,51,9984
+Chicago,Clearing,61,42,57,19136
+Chicago,Kennedy Park,61,43,54,1874
+Chicago,East Side,61,38,63,22945
+Chicago,Schorsch Forest View,61,35,48,2215
+Chicago,West Chesterfield,59,78,54,4125
+Chicago,Ford City,59,61,49,861
+Chicago,Wildwood,59,42,57,4060
+Chicago,Edgebrook,59,42,61,4628
+Chicago,Belmont Terrace,58,52,54,2554
+Chicago,Ashburn,58,56,51,16334
+Chicago,Garfield Ridge,58,45,54,36247
+Chicago,O'Hare,57,51,47,13002
+Chicago,Wrightwood,55,53,51,9542
+Chicago,Sauganash,55,41,69,6525
+Chicago,West Pullman,54,55,58,29655
+Chicago,Mount Greenwood,54,43,54,17508
+Chicago,Hegewisch,52,34,57,9511
+Chicago,South Deering,49,51,47,14340
+Chicago,Pullman,49,62,50,7284
+Chicago,Irving Woods,48,48,54,4355
+Chicago,Princeton Park,43,82,46,3364
+Chicago,Tally's Corner,41,47,51,1584
+DC,Dupont Circle,98,87,95,"17,057"
+DC,U-Street,97,82,96,"11,427"
+DC,Downtown-Penn Quarter-Chinatown,97,99,90,"7,570"
+DC,Mount Vernon Square,97,98,91,"6,494"
+DC,Logan Circle - Shaw,96,88,95,"21,218"
+DC,Foggy Bottom - GWU - West End,95,86,80,"16,281"
+DC,Adams Morgan,95,78,90,"15,639"
+DC,Columbia Heights,94,79,90,"35,322"
+DC,H Street-NoMa,93,78,96,"8,315"
+DC,Mount Pleasant,90,76,82,"10,443"
+DC,Kalorama,88,74,83,"2,587"
+DC,LeDroit Park - Bloomingdale,88,74,79,"8,739"
+DC,SW Ballpark - Navy Yard,87,78,86,"4,091"
+DC,Howard University,86,74,79,"1,101"
+DC,Capitol Hill,86,76,92,"38,802"
+DC,Petworth,85,69,81,"20,979"
+DC,Eckington,84,71,89,"3,492"
+DC,Georgetown,83,60,73,"16,704"
+DC,16th Street Heights - Crestwood - Brightwood Park,83,63,69,"17,694"
+DC,Kingman Park,82,65,93,"6,604"
+DC,Trinidad - Langston,80,58,70,"14,495"
+DC,Brightwood - Manor Park,79,65,60,"16,676"
+DC,AU Park - Friendship Heights - Tenley,78,62,65,"9,341"
+DC,Glover Park,78,51,55,"8,455"
+DC,Van Ness - Forest Hills,75,61,48,"13,738"
+DC,Brookland,75,68,75,"18,794"
+DC,Brentwood - Langdon,74,60,50,"7,660"
+DC,Southwest - Waterfront,74,72,85,"11,444"
+DC,Cathedral - Wesley Heights - McLean Gardens,73,54,57,"11,780"
+DC,Cleveland Park,73,63,63,"6,594"
+DC,Woodley Park,72,65,74,"6,751"
+DC,Benning,71,70,51,"8,599"
+DC,Colonial Village - Shepherd Park,69,72,50,"4,038"
+DC,Fort Totten - Riggs Park,67,71,52,"10,960"
+DC,Marshall Heights - Lincoln Heights,67,63,40,"14,944"
+DC,McMillan Reservoir,67,68,72,776
+DC,Chevy Chase-DC,64,51,47,"14,994"
+DC,Anacostia,64,67,39,"22,990"
+DC,Congress Heights,63,62,32,"38,816"
+DC,Woodridge - Fort Lincoln,62,52,44,"6,004"
+DC,Foxhall-Palisades,59,39,53,"8,437"
+DC,Fort Dupont,58,56,38,"19,875"
+DC,Spring Valley,58,42,51,"5,554"
+DC,Michigan Park,58,64,55,"7,574"
+DC,Randle Heights,57,62,35,"9,851"
+DC,Hillcrest - Fairfax Village,56,56,34,"3,724"
+DC,Deanwood,51,61,50,"8,813"
+DC,River Terrace - Lily Ponds - Mayfair,46,64,59,"4,814"
+DC,Potomac Yard - Potomac Greens,34,45,74,826
+LA,Downtown,95,98,78,"37,811"
+LA,MacArthur Park,94,78,65,"28,660"
+LA,Central Hollywood,93,63,72,"16,763"
+LA,Westlake,91,83,62,"47,630"
+LA,Wilshire Center - Koreatown,91,73,63,"95,278"
+LA,Mid-City West,90,62,68,"58,382"
+LA,Pico Union,89,72,73,"39,969"
+LA,East Hollywood,89,66,68,"46,432"
+LA,Hollywood Studio District,87,60,70,"29,216"
+LA,West Los Angeles,87,66,84,"30,791"
+LA,Palms,87,61,79,"27,362"
+LA,Rampart Village,84,74,64,"24,534"
+LA,Greater Wilshire,84,63,65,"49,906"
+LA,PICO,83,63,63,"21,591"
+LA,Olympic Park,83,64,62,"18,822"
+LA,Venice,82,53,80,"37,064"
+LA,Greater Echo Park Elysian,82,61,52,"47,371"
+LA,South Central LA,82,68,76,"43,113"
+LA,South Robertson,82,60,61,"41,896"
+LA,Central San Pedro,81,45,55,"30,173"
+LA,Boyle Heights,81,65,54,"83,990"
+LA,Historic Cultural,80,88,55,"28,347"
+LA,UNNC,79,58,61,"52,561"
+LA,Congress North,78,67,74,"74,785"
+LA,Lincoln Heights,78,59,55,"30,545"
+LA,Greater Griffith Park,78,54,47,"33,358"
+LA,Voices of 90037,78,62,66,"45,939"
+LA,Silver Lake,77,53,49,"27,788"
+LA,Mid-Town North Hollywood,76,51,65,"68,438"
+LA,Central Alameda,76,59,64,"30,580"
+LA,Westside,75,63,65,"31,108"
+LA,Atwater Village,74,53,70,"14,129"
+LA,Highland Park,73,45,53,"53,329"
+LA,Congress Central,72,54,52,"42,856"
+LA,West Adams,72,63,63,"26,724"
+LA,Valley Village,72,45,69,"24,337"
+LA,Mid City,72,60,56,"28,982"
+LA,Greater Toluca Lake,72,42,61,"11,813"
+LA,Hollywood Hills West,71,50,35,"39,355"
+LA,CANNDU,71,61,60,"44,239"
+LA,Eagle Rock,70,45,46,"31,061"
+LA,Van Nuys,70,50,59,"81,741"
+LA,Mar Vista,70,51,66,"50,154"
+LA,Greater Cypress Park,69,54,48,"12,760"
+LA,Park Mesa Heights,69,53,48,"35,711"
+LA,Westwood,69,66,52,"51,628"
+LA,Harbor City,68,35,53,"22,736"
+LA,Wilmington,68,39,58,"53,685"
+LA,Congress Southeast,67,58,61,"73,700"
+LA,Greater Valley Glen,67,45,58,"47,341"
+LA,Hollywood United,66,52,36,"19,273"
+LA,Canoga Park,66,49,70,"51,622"
+LA,Panorama City,65,47,65,"67,474"
+LA,Congress Southwest,65,53,49,"28,232"
+LA,Harbor Gateway South,65,35,48,"22,652"
+LA,Marina del Rey,64,48,67,"40,336"
+LA,North Hollywood North East,63,46,62,"33,639"
+LA,Studio City,63,43,47,"34,070"
+LA,Glassell Park,62,44,35,"22,966"
+LA,Watts,62,56,55,"41,973"
+LA,Sherman Oaks,62,43,48,"64,022"
+LA,LA-32,61,42,35,"45,060"
+LA,Harbor Gateway North,61,53,53,"34,620"
+LA,Congress West,61,53,47,"36,740"
+LA,Reseda,60,43,59,"67,617"
+LA,North Hills East,60,43,59,"38,779"
+LA,Westchester-Playa Del Rey,59,44,51,"55,910"
+LA,Pacoima,58,46,52,"74,403"
+LA,Lake Balboa,58,42,59,"45,125"
+LA,North Hollywood West,58,40,49,"20,298"
+LA,Winnetka,57,40,55,"47,887"
+LA,Sunland-Tujunga,56,28,27,"43,783"
+LA,Coastal San Pedro,56,33,37,"26,348"
+LA,Northwest San Pedro,55,32,36,"21,271"
+LA,Brentwood,54,43,43,"31,715"
+LA,Sun Valley,54,44,49,"48,165"
+LA,Tarzana,53,40,56,"35,757"
+LA,Northridge,48,37,54,"72,879"
+LA,Chatsworth,48,36,49,"33,446"
+LA,Encino,47,35,40,"44,100"
+LA,Woodland Hills-Warner Center,46,40,40,"70,032"
+LA,Mission Hills,46,39,49,"22,594"
+LA,North Hills West,46,36,49,"20,973"
+LA,Arleta,45,39,50,"35,422"
+LA,Sylmar,45,39,38,"78,941"
+LA,Arroyo Seco,43,45,33,"22,718"
+LA,Elysian Valley Riverside,42,50,57,"6,888"
+LA,Granada Hills,41,27,37,"53,133"
+LA,West Hills,41,34,43,"38,643"
+LA,Pacific Palisades,36,27,23,"25,279"
+LA,Foothill Trails,23,32,20,"20,762"
+LA,Porter Ranch,22,8,18,"20,738"
+LA,Bel Air-Beverly Crest,14,18,7,"27,181"
+LA,Terminal Island,4,1,27,"1,045"
